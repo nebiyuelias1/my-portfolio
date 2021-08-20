@@ -1,0 +1,9 @@
+.social-links {
+    display: flex;
+    justify-content: space-between;
+
+    &__logo {
+        width: 36px;
+        height: 36px;
+    }
+}
