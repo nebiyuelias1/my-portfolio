@@ -5,8 +5,19 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
-
 .container {
     max-width: 650px;
     width: 100%;
+}
+
+.p-1 {
+    padding: 1em;
+}
+
+.flex {
+    display: flex;
+}
+
+.justify-content-center {
+    justify-content: center;
 }
